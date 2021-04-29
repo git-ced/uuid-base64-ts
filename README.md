@@ -57,14 +57,14 @@ const uuidv4 = '85c39545-533c-4587-bb1d-bad766908b1b';
 const shortId = encode(uuidv4);
 
 console.log(shortId);
-// => 
+// => 'hcOVRVM8RYe7HbrXZpCLGw'
 ```
 
 **Expand a base64 encoded character to UUID v4**
 ```javascript
 import { decode } from 'uuid-base64-ts';
 
-const shortId = '';
+const shortId = 'hcOVRVM8RYe7HbrXZpCLGw';
 const uuidv4 = decode(shortId);
 
 console.log(uuidv4);
