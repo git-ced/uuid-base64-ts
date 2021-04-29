@@ -18,6 +18,8 @@
   "keywords": [
     "pridepack"
   ],
+  "author": "Prince Neil Cedrick S. Castro <aws.cedi@gmail.com>",
+  "repository": "https://github.com/git-ced/uuid-base64-ts.git",
   "name": "uuid-base64-ts",
   "devDependencies": {
     "@types/jest": "^26.0.23",
