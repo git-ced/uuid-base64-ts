@@ -1,5 +1,5 @@
 # uuid-base64-ts
-> Open-source React video player powered by VideoJS
+> Shorten a UUID v4 to 22 characters with base64 encoding in Typescript
 
 [![NPM](https://img.shields.io/npm/v/uuid-base64-ts.svg)](https://www.npmjs.com/package/uuid-base64-ts)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/uuid-base64-ts)
